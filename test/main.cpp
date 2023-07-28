@@ -1,9 +1,4 @@
-﻿//#include <iostream>
-//#include "Triangle.hpp"
-//#include "Polyhedron.hpp"
-//#include "Read_off.hpp"
-
-#include <iostream>
+﻿#include <iostream>
 #include "Read_off.hpp"
 #include "Triangle.hpp"
 #include "Polyhedron.hpp"
