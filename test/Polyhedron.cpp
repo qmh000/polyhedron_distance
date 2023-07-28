@@ -4,15 +4,6 @@
 #include <algorithm>
 
 //--------------------------------------------------------------------------
-// File:   TriDist.cpp
-// Author: Eric Larsen
-// Description:
-// contains SegPoints() for finding closest points on a pair of line
-// segments and TriDist() for finding closest points on a pair of triangles
-//--------------------------------------------------------------------------
-
-
-//--------------------------------------------------------------------------
 // SegPoints() 
 //
 // Returns closest points between an segment pair.

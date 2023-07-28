@@ -1,3 +1,4 @@
+#include <Eigen/Eigen>
 #include "Triangle.hpp"
 
 Triangle::Triangle()

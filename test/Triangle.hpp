@@ -12,6 +12,4 @@ public:
 	Eigen::Vector3f c() const { return v[2]; }
 
 	void setVertex(int ind, Eigen::Vector3f ver);
-
-
 };

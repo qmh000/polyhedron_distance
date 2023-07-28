@@ -27,6 +27,12 @@
     <ClCompile Include="Polyhedron.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Read_off.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Read_off.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Triangle.hpp">

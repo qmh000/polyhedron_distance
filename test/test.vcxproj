@@ -73,6 +73,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>D:\project\eigen-3.4.0;$(IncludePath)</IncludePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>D:\project\eigen-3.4.0;$(IncludePath)</IncludePath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -133,6 +136,8 @@
     <ClCompile Include="Polyhedron.cpp" />
     <ClCompile Include="Polyhedron.hpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Read_off.cpp" />
+    <ClCompile Include="Read_off.hpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
